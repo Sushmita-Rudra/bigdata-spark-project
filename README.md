@@ -72,5 +72,6 @@ Then I executed the below commands using the higher order functions flatmap, map
  1. Spark set up and higher order function [https://github.com/denisecase/setup-spark](https://github.com/denisecase/setup-spark)
  1. Data source [http://shakespeare.mit.edu/julius_caesar/full.html](http://shakespeare.mit.edu/julius_caesar/full.html)
  1. Markdown [https://wordpress.com/support/markdown-quick-reference/](https://wordpress.com/support/markdown-quick-reference/)
+ 1. flatmap command [https://sparkbyexamples.com/spark/spark-flatmap-usage-with-example/](https://sparkbyexamples.com/spark/spark-flatmap-usage-with-example/)
  
  
