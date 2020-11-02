@@ -55,7 +55,7 @@ Then I executed the below commands using the higher order functions flatmap, map
  
  The result is saved in a text file like below
  ```
- rddResult.saveAsTextFile("resultdata")
+ result.saveAsTextFile("resultData")
  ```
  
  ## Data Visualization using chart:
